@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi, I’m Mark
+
+BSc. Information Technology student and developer focused on building practical web and mobile applications.
+
+Current work
+
+
+Web and mobile projects using React, React Native, and python
+
+Tech
+
+JavaScript, HTML, CSS
+
+React, React Native
+
+Node.js, 
+
+MongoDB, Firebase
+
+
+
+Interests
+
+Product-driven development
+
+Scalable backend systems
+
+Mobile-first solutions
+
+ markkipronomutai@gmail.com
